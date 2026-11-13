@@ -7,6 +7,7 @@ A responsive, standalone educational web application in the Central Hub learning
 - **Explore** — overview, nine domain cards, and learning progress.
 - **Theory Library** — 32 frameworks with searchable claims, observation methods, examples, interpretive cautions and foundational reading leads.
 - **Concept Map** — keyboard-accessible interactive SVG framework explorer, with domain filtering.
+- **Social Interaction Lab (V3)** — four fictional multi-character social scenarios with decision points, alternative responses, contextual feedback, local learning records and reflection export.
 - **Communication Simulator (V2)** — six adjustable nonverbal and contextual dimensions, live stylized interaction diagram, multiple plausible interpretations, reflection saving and handoff to the Cue Analysis Lab.
 - **Cue Analysis Lab** — eight-step uncertainty-aware worksheet that separates observation from inference and prompts alternative hypotheses.
 - **Observation Lab** — structured observational coding log with ten channels and JSON export.
@@ -32,4 +33,4 @@ Bibliographic entries are introductory reference leads rather than independently
 
 ## Status
 
-V2 committed. Live GitHub Pages deployment and interactive browser QA have not yet been independently verified.
+V3 committed. Live GitHub Pages deployment and interactive browser QA have not yet been independently verified.
